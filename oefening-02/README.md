@@ -4,7 +4,7 @@
 
 ### Postman opstarten
 
- - Start Postman.
+- Start Postman.
 
 ### GET-request uitvoeren
 
@@ -15,7 +15,8 @@
 ### endpoints opzoeken
 
 Zoek de volgende endpoints op:
-- Vraag de data van een specifieke pokemon op (bv. charmander): *Noteer de endpoint hier*
-- Vraag de data van een specifieke pokemon-type op (bv. fire): *Noteer de endpoint hier*
-- Vraag 1 lijst van de eerste 151 pokemon op: *Noteer de endpoint hier*
-- Vraag 1 lijst van de volgende 151 pokemon op: *Noteer de endpoint hier*
+
+- Vraag de data van een specifieke pokemon op (bv. charmander): _/pokeapi.co/api/v2/pokemon/celebi_
+- Vraag de data van een specifieke pokemon-type op (bv. fire): _/pokeapi.co/api/v2/type/14/_
+- Vraag 1 lijst van de eerste 151 pokemon op: https://pokeapi.co/api/v2/pokemon?limit=151&offset=0
+- Vraag 1 lijst van de volgende 151 pokemon op: https://pokeapi.co/api/v2/pokemon?limit=151&offset=151

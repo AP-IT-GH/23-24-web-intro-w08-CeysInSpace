@@ -4,11 +4,15 @@
 
 ### Postman opstarten
 
- - Start Postman.
+- Start Postman.
 
 ### endpoints opzoeken
 
- - Ga op zoek naar een geschikte API die in lijn ligt van jouw topic voor jouw langlopende taak.
- - Zoek minstens 3 endpoints op van de API.
+- Ga op zoek naar een geschikte API die in lijn ligt van jouw topic voor jouw langlopende taak.
+- Zoek minstens 3 endpoints op van de API.
 
- *Schrijf hier de 3 endpoints op.*
+\*https://safebrowsing.googleapis.com/v4/
+
+https://api.cloudflare.com/client/v4/zones/zone_id/api_gateway/configuration\
+
+-
